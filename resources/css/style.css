@@ -8,6 +8,11 @@ h1{
   text-align: center;
 }
 
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
 ul{
   text-align: center;
   font-size: 18px;
@@ -28,4 +33,9 @@ ul{
   background-color: dimgray;
   font-size: 11px;
   text-align: left;
+}
+
+#Logo{
+  font-size: 23px;
+  font-weight: bold;
 }
