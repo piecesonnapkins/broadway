@@ -1,14 +1,15 @@
 *{
   font-family: Helvetica;
-  text-align: center;
 }
 h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
 
 ul{
+  text-align: center;
   font-size: 18px;
   color: white;
   list-style-type: none;
@@ -26,4 +27,5 @@ ul{
   color: white;
   background-color: dimgray;
   font-size: 11px;
+  text-align: left;
 }
